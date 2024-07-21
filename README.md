@@ -19,7 +19,7 @@ The dataset contains the following variables:
 
 **Owner Type:** Number of previous owners (e.g., First, Second, Third).
 
-**Transmission Type: **Type of transmission (e.g., Manual, Automatic).
+**Transmission Type:** Type of transmission (e.g., Manual, Automatic).
 
 **Body Color**: Color of the car's body.
 
@@ -28,7 +28,7 @@ The dataset contains the following variables:
 **Registration Certificate:** Whether the car has a registration certificate (Yes/No).
 **Accessory:** Additional accessories available with the car.
 **Mileage:** The mileage of the car (in kmpl).
-**Price: **The selling price of the car.
+**Price:** The selling price of the car.
 
 
 # Instructions:
